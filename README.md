@@ -25,25 +25,8 @@
 ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=Maven)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
-- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
-- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
-- [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
-- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
-- [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
-- [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
-- [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
-- [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
-- [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
-
-### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
-
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
-
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
-
+### 项目
+- [基于Golang的博客项目](https://github.com/ccclll777/awesome-blog)
+- [Solitaire纸牌游戏](https://github.com/ccclll777/Windows_Solitaire_game)
+- [京东苏宁爬虫，商品价格比较](https://github.com/ccclll777/JDSNCompare/blob/master/README.md)
 
