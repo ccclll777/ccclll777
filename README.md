@@ -1,6 +1,7 @@
 ### 胸怀猛虎 细嗅蔷薇 👋
 
 ### I'm Chao Li
+[![ccclll777's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccclll777)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 北京某研究所民工
 - ✏️ Read my blog on https://ccclll777.github.io
